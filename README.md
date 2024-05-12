@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 My name is Izundu Chinonso Emmanuel (**Izuchi**, for short & ease). I'm a passionate software engineer with a drive to create innovative solutions that make a difference.
 
@@ -13,6 +13,9 @@ When I'm not coding, you can find me reading, listening to music, watching movie
 - 🌱 I’m currently more actively learning ML/AI and everything programming; as learning never ends, it's always a continual process
 
 - 👯 I’m looking to collaborate on and contribute to projects that provide innovative solutions to problems
+
+---
+> Learning never ends, it's always a continual process.
 
 
 
