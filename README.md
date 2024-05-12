@@ -14,11 +14,11 @@ When I'm not coding, you can find me reading, listening to music, watching movie
 
 - 👯 I’m looking to collaborate on and contribute to projects that provide innovative solutions to problems
 
-- 🤔 I’m looking for help with ...
 
+
+<!--
 - 💬 Ask me about anything
-
-<--
+- 🤔 I’m looking for help with ...
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
