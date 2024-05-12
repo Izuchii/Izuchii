@@ -1,5 +1,11 @@
 ### About me
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="https://photos.google.com/photo/AF1QipPq3P0kDiXozigdJd5Gfn359F3525TME9xk28AZ">
+</picture>
+
 My name is Izundu Chinonso Emmanuel (**Izuchi**, for short & ease). I'm a passionate software engineer with a drive to create innovative solutions that make a difference.
 
 With a strong foundation in computer science and a keen eye for detail, I design and develop software applications that are efficient, scalable, and user-friendly.
