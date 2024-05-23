@@ -3,10 +3,10 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Izundu Chinonso Emmanuel image" src="https://photos.google.com/photo/AF1QipPq3P0kDiXozigdJd5Gfn359F3525TME9xk28AZ">
+ <img alt="Izundu Chinonso Emmanuel image" src="https://picjj.com/images/2024/05/23/eBtvv.jpg">
 </picture>
 
-![Screenshot 20240512 210451](https://photos.google.com/photo/AF1QipPq3P0kDiXozigdJd5Gfn359F3525TME9xk28AZ)
+![07e5a1bb 17d5 4634 84ed 83185a8d88b2 20240104 001141 1](https://picjj.com/images/2024/05/23/eBtvv.jpg)
 
 My name is Izundu Chinonso Emmanuel (**Izuchi**, for short & ease). I'm a passionate software engineer with a drive to create innovative solutions that make a difference.
 
