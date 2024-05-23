@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Izundu Chinonso Emmanuel image" src="https://picjj.com/images/2024/05/23/eBtvv.jpg">
+<!--  <img alt="Izundu Chinonso Emmanuel image" src="https://picjj.com/images/2024/05/23/eBtvv.jpg"> -->
 </picture>
 
 ![07e5a1bb 17d5 4634 84ed 83185a8d88b2 20240104 001141 1](https://picjj.com/images/2024/05/23/eBtvv.jpg)
