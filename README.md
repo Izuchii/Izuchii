@@ -6,7 +6,7 @@
  <img alt="Izundu Chinonso Emmanuel image" src="https://photos.google.com/photo/AF1QipPq3P0kDiXozigdJd5Gfn359F3525TME9xk28AZ">
 </picture>
 
-![Screenshot 20240512 210451](https://picjj.com/images/2024/05/12/rcMBH.jpg)
+![Screenshot 20240512 210451](https://photos.google.com/photo/AF1QipPq3P0kDiXozigdJd5Gfn359F3525TME9xk28AZ)
 
 My name is Izundu Chinonso Emmanuel (**Izuchi**, for short & ease). I'm a passionate software engineer with a drive to create innovative solutions that make a difference.
 
